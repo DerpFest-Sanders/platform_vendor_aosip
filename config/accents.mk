@@ -17,16 +17,13 @@ PRODUCT_PACKAGES += \
     Orange \
     Pink \
     Purple \
+    qOne \
+    qTwo \
+    qThree \
+    qFour \
+    qFive \
+    qSix \
     Red \
     Teal \
-    UserOne \
-    UserTwo \
-    UserThree \
-    UserFour \
-    UserFive \
-    UserSix \
-    UserSeven \
-    UserEight \
-    UserNine \
     Yellow \
     White
