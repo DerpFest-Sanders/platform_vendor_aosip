@@ -6,9 +6,9 @@ PRODUCT_PACKAGES += \
     Launcher3 \
     LiveWallpapers \
     LiveWallpapersPicker \
-    messaging \
     WeatherClient \
-    WellbeingPrebuilt
+    WellbeingPrebuilt \
+    Updater
 
 # DerpFest packages
 PRODUCT_PACKAGES += \
